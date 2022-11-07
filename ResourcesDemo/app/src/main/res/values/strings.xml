@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ResourcesDemo</string>
+    <string name="title">Welcome to HappiestMinds</string>
+    <string name="label">Android Application Development</string>
+    <string name="footer">Copyright 2022 Developed by HappiestMinds</string>
+</resources>
